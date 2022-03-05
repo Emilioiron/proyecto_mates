@@ -1,1 +1,0 @@
-Para eliminarlo desde git.
