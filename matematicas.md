@@ -9,3 +9,7 @@ Nuestro cliente es el mejor.
 
 
 Esto es un fichero muy chulo.
+
+## Modificación mediante GitHub
+
+Esto es una modificación desde la web.
